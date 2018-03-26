@@ -5,6 +5,6 @@ public class ThirdTest extends TestBase {
     @Test
 
     public void myThirdTest() {
-        driver.get("http://myaccount.google.com/intro");
+        driver.get("http://google.com");
     }
 }
